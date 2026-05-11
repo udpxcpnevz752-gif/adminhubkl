@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from bot import run_bot
+from admin_bot import run_bot
 
 app = Flask(__name__)
 
