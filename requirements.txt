@@ -1,0 +1,10 @@
+﻿python-telegram-bot==21.1.1
+httpx
+qrcode
+pillow
+psycopg2-binary
+pyrogram
+tgcrypto
+flask
+gunicorn
+pyTelegramBotAPI
