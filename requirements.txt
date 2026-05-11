@@ -1,4 +1,4 @@
-﻿python-telegram-bot==21.1.1
+python-telegram-bot==21.1.1
 httpx
 qrcode
 pillow
@@ -8,3 +8,4 @@ tgcrypto
 flask
 gunicorn
 pyTelegramBotAPI
+python-dotenv
